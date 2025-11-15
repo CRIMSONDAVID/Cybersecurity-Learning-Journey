@@ -12,4 +12,10 @@ STAGE 2:
    -Security frameworks and controls
    -Introduction to cybersecurity tools
    -Using playbooks to reponf to incident
+
+STAGE 3:
+ Network and Network Security
+  -Security Architecture
+  -Secure against Network Intrusion
+  -Security Hardening
   
