@@ -1,3 +1,3 @@
 Cybersecurity Projects
 
-This folder contains small hands-on projects, exercises, and safe write-ups from my cybersecurity learning journey.
+This folder contains practice assignments, exercises, and safe write-ups from my cybersecurity learning journey.
