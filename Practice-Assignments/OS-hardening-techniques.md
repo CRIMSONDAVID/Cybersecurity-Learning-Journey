@@ -5,4 +5,3 @@ My Response
   I reviewed the packet capture and identified DNS and HTTP traffic. DNS was used to resolve domain names to IP addresses, and HTTP handled webpage requests and the malware download.
   I wrote a report summarizing how the attacker accessed the admin panel, how the malicious script functioned, and how users were redirected to the fake website. I included evidence from the tcpdump logs and sandbox analysis.
 The link below shows what i did
-file:///C:/Users/Crimson/3D%20Objects/Security%20incident%20report%20(practice).pdf
