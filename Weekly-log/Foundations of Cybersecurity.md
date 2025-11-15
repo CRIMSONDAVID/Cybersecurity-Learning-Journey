@@ -1,4 +1,4 @@
-Week 1: Foundations of Cybersecurity
+Foundations of Cybersecurity
 This week I explored the foundations of cybersecurity, diving into four modules that gave me both theoretical grounding and practical insights.
 
 Module 1: Welcome to the World of Cybersecurity
