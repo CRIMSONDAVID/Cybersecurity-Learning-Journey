@@ -1,0 +1,4 @@
+This practice scenario involved analyzing a DDoS attack where the company’s internal network was flooded with ICMP packets. The traffic caused the network to stop responding for two hours. Investigation later revealed that an unconfigured firewall allowed the malicious ICMP traffic to enter the network. The incident management team applied emergency controls to contain the attack and restore essential operations.
+
+What i was tasked to do:
+  My task in this exercise was to review the incident using the NIST Cybersecurity Framework and document how the company handled each phase. I was required to analyze how the attack occurred, how it was contained, and what steps were taken to restore normal operations. I also evaluated the long-term improvements needed to strengthen network security.
