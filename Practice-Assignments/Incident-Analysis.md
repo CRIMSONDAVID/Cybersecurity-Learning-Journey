@@ -20,3 +20,4 @@ The security team contained the attack by blocking incoming ICMP packets, they t
 Recover
 After, the non-critical services was brought back online, and the whole network was ensured that it was working again. The team added a firewall rule to rate-limit ICMP, they also implemented networking tools and IDS\IPS to identify suspicious ICMP patterns. Policies were updated
 
+
