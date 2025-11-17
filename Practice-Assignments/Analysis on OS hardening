@@ -1,0 +1,9 @@
+This scenario involved a security incident affecting the website yummyrecipesforme.com. A former employee gained unauthorized access to the site’s admin panel by performing a brute-force attack against the administrative account. The password had not been changed from its default value, allowing the attacker to guess it successfully. After logging in, the attacker edited the website’s source code and added a malicious JavaScript file that prompted visitors to download an executable. When customers ran this file, their browsers were redirected to a fake website containing malware. Multiple users later reported slow computer performance and unexpected redirects. The cybersecurity team reproduced the issue in a sandbox and confirmed the malicious code injection.
+What i needed to do:
+   My task was to investigate the incident using provided tcpdump logs, identify the network protocol(s) involved in the traffic, and document the event in an incident report. I was also required to provide one recommendation that could help prevent brute-force attacks in the future.
+My Response 
+   I reviewed the packet capture and identified DNS and HTTP traffic. DNS was used to resolve domain names to IP addresses, and HTTP handled webpage requests and the malware download
+   I wrote a report summarizing how the attacker accessed the admin panel, how the malicious script functioned, and how users were redirected to the fake website. I included evidence from the tcpdump logs and sandbox analysis.
+   I recommended requiring frequent password changes to reduce the risk of default or outdated credentials being targeted during brute-force attempts.
+
+This practice assignment helped me understand how compromised credentials can lead to code injection attacks and how network protocols like DNS and HTTP play a role in web-based incidents. I’ve attached my full incident report as part of this exercise.
