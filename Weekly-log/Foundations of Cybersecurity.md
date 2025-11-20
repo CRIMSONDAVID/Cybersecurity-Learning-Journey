@@ -1,5 +1,5 @@
 Foundations of Cybersecurity
-This week I explored the foundations of cybersecurity, diving into four modules that gave me both theoretical grounding and practical insights.
+I explored the foundations of cybersecurity, diving into four modules that gave me both theoretical grounding and practical insights.
 
 Module 1: Welcome to the World of Cybersecurity
 Cybersecurity is not just about firewalls and antivirus — it’s about protecting people, systems, and trust.
