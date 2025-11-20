@@ -59,3 +59,5 @@ Importance: Identifies weaknesses, ensures compliance, and drives continuous imp
 
 Why This Matters
 Cybersecurity isn’t just technical — it’s strategic. Frameworks guide us, controls enforce protection, the CIA triad helps us prioritize, and audits keep us accountable. Together, they form the backbone of resilient organizations.
+
+I completed structured audit exercises that taught me how to identify assets, assess risks, evaluate threats, and review existing controls. I practiced using the NIST Cybersecurity Framework to organize audit findings.
