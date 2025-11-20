@@ -18,4 +18,10 @@ STAGE 3:
   -Security Architecture
   -Secure against Network Intrusion
   -Security Hardening
-  
+
+STAGE 4:
+ Tools Of The Trade: Linux And SQL
+  -Introduction to opearating system
+  -The linux operating system
+  -Linux commands in bash shell
+  -Databases  and SQL
