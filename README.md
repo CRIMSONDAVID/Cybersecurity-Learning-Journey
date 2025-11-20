@@ -1,5 +1,5 @@
-# Cybersecurity-Learning-Journey
-My journey in the cybersecurity world
+Google-Cybersecurity-Learning-Journey
+My journey in the cybersecurity world with google cybersecurity
   Welcome!
   This repository tracksmy progress as i learn and practice cybersecurity
 
@@ -10,12 +10,11 @@ My journey in the cybersecurity world
 
 Platform i am using to study
 COUSERA
-
  Course and certification
    Google Cybersecurity Professional Certificate
 
 Target Industry Certificate
- Compti security plus
+ Comptia security plus
 
 
 About me
